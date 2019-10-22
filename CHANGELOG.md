@@ -1,8 +1,11 @@
 ## Change Log Stitch SDK
 
+### 1.5.0 - 2019-10-18
+- Implement RichText widget
+
 ### 1.4.1 - 2019-08-14
 - Disable Rakuten Analytics
-- [STIT-970] Remove Stitch-aquafadas module
+- Remove Stitch-aquafadas module
 
 ### 1.4.0 - 2019-08-12
 - Remove V1 from base endpoint 
