@@ -1,5 +1,11 @@
 ## Change Log Stitch SDK
 
+### 1.5.2 - 2019-12-11
+- Enable SSL TLS 1.2 by default for Android 4.4 and lower
+
+### 1.5.1 - 2019-11-05
+- Fix for RichText widget
+
 ### 1.5.0 - 2019-10-18
 - Implement RichText widget
 
