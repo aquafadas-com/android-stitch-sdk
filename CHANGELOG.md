@@ -1,5 +1,8 @@
 ## Change Log Stitch SDK
 
+### 1.5.3 - 2019-12-17
+ - Fix download bug (update common framework)
+
 ### 1.5.2 - 2019-12-11
 - Enable SSL TLS 1.2 by default for Android 4.4 and lower
 
