@@ -1,5 +1,8 @@
 ## Change Log Stitch SDK
 
+### 1.6.0 - 2020-03-16
+ - Support AndroidX
+
 ### 1.5.3 - 2019-12-17
  - Fix download bug (update common framework)
 
